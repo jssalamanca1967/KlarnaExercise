@@ -5,3 +5,5 @@ The main purpose of this exercise is to predict de default risk in a base of cli
 1. DataAnalysis.py
    - asdasd
 2. ModelPreparation.py
+
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 
